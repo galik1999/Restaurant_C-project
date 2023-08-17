@@ -1,6 +1,7 @@
 
 #ifndef restaurant
 #define restaurant
+#endif
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -27,5 +28,3 @@ int OrderItem(int TableNumber, char* ProductName, int Quantity, list* l, list ta
 int AddItems(FILE* in, list* l, char* Product_name, int Quantity);
 int CreateProducts(FILE* in, list* l);
 void IfNotClosed(int tableNumber, list tables[SIZE]);
-
-#endif

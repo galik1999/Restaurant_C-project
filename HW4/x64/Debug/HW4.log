@@ -1,0 +1,20 @@
+﻿  restaurant.h
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Main.c
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(62,76): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(62,69): warning C4024: 'OrderItem': different types for formal and actual parameter 5
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(66,35): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(66,28): warning C4024: 'RemoveItem': different types for formal and actual parameter 2
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(70,36): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\Main.c(70,29): warning C4024: 'RemoveTable': different types for formal and actual parameter 2
+  implementations.c
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\restaurant.h(8,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\implementations.c(21,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\implementations.c(51): warning C4715: 'RemoveItem': not all control paths return a value
+C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\HW4\implementations.c(31): warning C4715: 'RemoveTable': not all control paths return a value
+  HW4.vcxproj -> C:\Users\galmu\source\repos\galik1999\Restaurant_C-project\x64\Debug\HW4.exe
