@@ -1,0 +1,20 @@
+﻿  Main.c
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(62,76): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(62,69): warning C4024: 'OrderItem': different types for formal and actual parameter 5
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(66,35): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(66,28): warning C4024: 'RemoveItem': different types for formal and actual parameter 2
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(70,36): warning C4047: 'function': 'list *' differs in levels of indirection from 'list (*)[50]'
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(70,29): warning C4024: 'RemoveTable': different types for formal and actual parameter 2
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(17,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(22,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(28,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(33,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(37,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(42,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(50,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(54,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(61,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(65,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\galmu\source\repos\HW4\hw4\Main.c(69,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\galmu\source\repos\HW4\x64\Debug\Restaurant Management System.exe : fatal error LNK1120: 1 unresolved externals
