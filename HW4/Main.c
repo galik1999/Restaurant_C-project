@@ -1,6 +1,6 @@
 #include "restaurant.h"
 
-
+//this is the main file which is connected to all other files and runs the code.
 int main()
 {
 	FILE* input, * instructions;
